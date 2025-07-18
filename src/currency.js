@@ -1,6 +1,6 @@
 import { useState } from "react"
-import './currency.css'
-git init
+import "./currency.css"
+
 
 export function Currency() {
     const [form_data, setForm_data] = useState('USD')
